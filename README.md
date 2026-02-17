@@ -106,7 +106,7 @@ Python-based port scanner with automated JSON reporting.
 
 ### 🌐 Web Application Pentest Toolkit
 Web security testing tool for header analysis, SQLi & XSS detection.
-👉 [View Project](https://github.com/YOUR_USERNAME/web-application-pentest-toolkit)
+👉 [View Project](https://github.com/nimmakayalasaryu/web-application-pentest-toolkit)
 
 ## 🧠 Workshop
 
