@@ -100,7 +100,7 @@ GPA: 8/10
 
 ### 🔐 Advanced Vulnerability Scanner
 Python-based port scanner with automated JSON reporting.
-👉 [View Project](https://github.com/YOUR_USERNAME/advanced-vulnerability-scanner)
+👉 [View Project](https://github.com/nimmakayalasaryu/advanced-vulnerability-scanner)
 
 ---
 
