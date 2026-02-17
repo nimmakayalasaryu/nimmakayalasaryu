@@ -96,6 +96,17 @@ GPA: 8/10
 - Participated in lab-based security simulations.
 
 ---
+## 🚀 Featured Projects
+
+### 🔐 Advanced Vulnerability Scanner
+Python-based port scanner with automated JSON reporting.
+👉 [View Project](https://github.com/YOUR_USERNAME/advanced-vulnerability-scanner)
+
+---
+
+### 🌐 Web Application Pentest Toolkit
+Web security testing tool for header analysis, SQLi & XSS detection.
+👉 [View Project](https://github.com/YOUR_USERNAME/web-application-pentest-toolkit)
 
 ## 🧠 Workshop
 
